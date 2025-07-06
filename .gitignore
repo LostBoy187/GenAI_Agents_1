@@ -163,5 +163,10 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# Custom ignores for this project
+# Ignore downloaded data files to keep the repository small
+*.csv
+*.zip
+
 .gitignore
 
